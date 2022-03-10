@@ -5,9 +5,7 @@
 - <h2>No momento estou focando em<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/> 
 - <h2>Contatos</h2>
   <div>
-    <a href="mailto:joseguilhermesp@hotmail.com"><img><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width: 100%;"></a>
-  
-  
+    <a href="mailto:joseguilhermesp@hotmail.com"><img><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width: 100%;"></a>   <a href="https://www.linkedin.com/in/josé-guilherme-sales-pereira-fernandes-08498222b/"><img><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
   
   </div>
 
